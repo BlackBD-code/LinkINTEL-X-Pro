@@ -1,0 +1,32 @@
+
+███████╗██╗     ██╗███╗   ██╗██╗  ██╗██╗████████╗███████╗██╗     ██╗  ██╗
+██╔════╝██║     ██║████╗  ██║██║ ██╔╝██║╚══██╔══╝██╔════╝██║     ██║ ██╔╝
+█████╗  ██║     ██║██╔██╗ ██║█████╔╝ ██║   ██║   █████╗  ██║     █████╔╝ 
+██╔══╝  ██║     ██║██║╚██╗██║██╔═██╗ ██║   ██║   ██╔══╝  ██║     ██╔═██╗ 
+██║     ███████╗██║██║ ╚████║██║  ██╗██║   ██║   ███████╗███████╗██║  ██╗
+╚═╝     ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
+                    Pro Version | Ethical Analysis | 2025-05-28 13:55:58
+                             Powered by BLACKBD | Ethical Hacking Awareness
+
+🔗 Scanned Link:
+https://www.facebook.com/share/r/1E7BzLQEBb/
+
+🔄 Redirect Chain:
+  - https://www.facebook.com/share/r/1E7BzLQEBb/
+  - https://web.facebook.com/share/r/1E7BzLQEBb/?_rdc=1&_rdr
+  - https://web.facebook.com/story.php?story_fbid=1194344496037929&id=100063871683536&...
+  - https://web.facebook.com/Blackhathackers4bd/videos/...
+  - https://web.facebook.com/reel/1246510526916338/?share_url=...
+
+🌐 Final Domain Info:
+  - Domain: web.facebook.com
+  - Path: /reel/1246510526916338/
+
+🧠 AI Threat Score: 8/100
+✅ Status: Safe (No phishing or tracking script patterns found)
+
+📍 GeoIP Lookup: Not Available (Requires target interaction)
+📌 Shortened Link Check: None detected
+
+🎨 UI: Matrix-style CLI Output (HTML Version Available)
+🔰 Tool: LinkINTEL-X Pro by BlackBD
