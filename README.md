@@ -28,5 +28,5 @@ This tool is designed for **ethical hacking education**, **digital forensics**, 
 ```bash
 git clone https://github.com/BlackBD-Offficial/LinkINTEL-X-Pro
 cd LinkINTEL-X-Pro
-chmod +x install.sh
-bash install.sh
+chmod +x linkintel_x.py
+python3 linkintel_x.py
